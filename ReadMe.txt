@@ -1,4 +1,4 @@
-TriviaBot v1.1 - but this time with Turtle WoW specific questions!
+TriviaBot v1.3 - but this time with Turtle WoW specific questions!
 
 Trivia is a fun trivia bot, which can be used as a way to distract yourself and others when grinding, during raids, or when idling in one of the major cities. The author does not take any responsibility for wipes and equipment damage caused as a result of using this mod ;-)
 
