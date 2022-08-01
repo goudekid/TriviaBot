@@ -1,5 +1,7 @@
 TriviaBot v1.3 - but this time with Turtle WoW specific questions!
 
+
+-- Below text written by forked repo author, I didnt do any of this stuff
 Trivia is a fun trivia bot, which can be used as a way to distract yourself and others when grinding, during raids, or when idling in one of the major cities. The author does not take any responsibility for wipes and equipment damage caused as a result of using this mod ;-)
 
 The mod maintains a list of top scorers which is printed out after every 5th question. It also keeps speed-records for the quickest answers. It allows you to switch the channel at any point, but if you want to change the question list you will need to stop the Trivia Bot first.
