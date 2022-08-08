@@ -7,9 +7,7 @@ WOW_TRIVIA_ANSWERS5 = {};
 WOW_TRIVIA_ANSWERS6 = {};
 WOW_TRIVIA_ANSWERS7 = {};
 WOW_TRIVIA_ANSWERS8 = {};
-
 local i = 1
-
 WOW_TRIVIA_QUESTIONS[i] = "Who is the third boss in Blackwing Lair?";
 WOW_TRIVIA_ANSWERS1[i] = "Broodlord Lashlayer";
 WOW_TRIVIA_ANSWERS2[i] = "Broodlord";
@@ -94,8 +92,6 @@ WOW_TRIVIA_QUESTIONS[i] = "What is the tier 2 Priest set called?";
 WOW_TRIVIA_ANSWERS1[i] = "Vestments of Transcendence";
 WOW_TRIVIA_ANSWERS2[i] = "Transcendence";
 i = i+1
-
-
 WOW_TRIVIA_QUESTIONS[i] = "The three bugs in AQ40 are called Vem, Kri and ...?";
 WOW_TRIVIA_ANSWERS1[i] = "Princess Yauj";
 WOW_TRIVIA_ANSWERS2[i] = "Yauj";
@@ -126,8 +122,6 @@ WOW_TRIVIA_QUESTIONS[i] = "Which class can cast 'Unending Breath'?";
 WOW_TRIVIA_ANSWERS1[i] = "Warlocks";
 WOW_TRIVIA_ANSWERS2[i] = "Warlock";
 i = i+1
-
-
 WOW_TRIVIA_QUESTIONS[i] = "For humans, the starting place is called?";
 WOW_TRIVIA_ANSWERS1[i] = "Northshire Valley";
 WOW_TRIVIA_ANSWERS2[i] = "northshire";
@@ -151,10 +145,6 @@ WOW_TRIVIA_ANSWERS2[i] = "4";
 i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "The Emerald Dragons are Ysondre, Emeriss, Taerar and _____?";
 WOW_TRIVIA_ANSWERS1[i] = "Lethon";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "The first wow expansion is called? (full name)";
-WOW_TRIVIA_ANSWERS1[i] = "The Burning Crusade";
-WOW_TRIVIA_ANSWERS2[i] = "Burnign Crusade";
 i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "Name a secondary trade skill.";
 WOW_TRIVIA_ANSWERS1[i] = "First Aid";
@@ -375,10 +365,6 @@ WOW_TRIVIA_QUESTIONS[i] = "Name one of the continents in Azeroth that actually i
 WOW_TRIVIA_ANSWERS1[i] = "Eastern Kingdoms";
 WOW_TRIVIA_ANSWERS2[i] = "Kalimdor";
 i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "What new profession came in the expansion? (full name)";
-WOW_TRIVIA_ANSWERS1[i] = "Jewelcrafting";
-i = i+1
-
 WOW_TRIVIA_QUESTIONS[i] = "Essence of the Red in the Vaelastrasz encounter restores how much energy per second?";
 WOW_TRIVIA_ANSWERS1[i] = "Fifty";
 WOW_TRIVIA_ANSWERS2[i] = "50";
@@ -473,7 +459,6 @@ WOW_TRIVIA_ANSWERS2[i] = "cat";
 i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "What is the Rogue's tier 3 called?";
 WOW_TRIVIA_ANSWERS1[i] = "Boneschyte Armor"; --1x1 here
-
 WOW_TRIVIA_QUESTIONS[i] = "To get a pet chicken (Chicken Egg) players must complete which quest?";
 WOW_TRIVIA_ANSWERS1[i] = "CLUCK!";
 WOW_TRIVIA_ANSWERS2[i] = "cluck";
@@ -854,7 +839,6 @@ WOW_TRIVIA_ANSWERS1[i] = "Anachronos";
 i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "Which zone contains the original World Tree? (full name)";
 WOW_TRIVIA_ANSWERS1[i] = "Mount Hyjal"
-
 WOW_TRIVIA_QUESTIONS[i] = "What is the name of the elite Dragon who patrols the Blasted Lands?";
 WOW_TRIVIA_ANSWERS1[i] = "Teremus the Devourer";
 WOW_TRIVIA_ANSWERS2[i] = "Teremus";
@@ -1311,14 +1295,8 @@ WOW_TRIVIA_QUESTIONS[i] = "In what zone is Naxxramas?";
 WOW_TRIVIA_ANSWERS1[i] = "Eastern Plaguelands";
 WOW_TRIVIA_ANSWERS2[i] = "EPL";
 i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "What was the patch that came out before the expansion (tbc) called?";
-WOW_TRIVIA_ANSWERS1[i] = "Before the Storm";
-i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "What is the name of the populare auctioning addon?";
 WOW_TRIVIA_ANSWERS1[i] = "Auctioneer";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "In the expansion, some of the heroic dungeons will offer new content, instead of just being harder. Such as new ______ and new areas. This is only for some of the new instances, though. The old heroic instances wont get this.";
-WOW_TRIVIA_ANSWERS1[i] = "bosses";
 i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "What mob-type is the realm Daggerspine named after?";
 WOW_TRIVIA_ANSWERS1[i] = "naga";
@@ -1356,7 +1334,6 @@ i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "What is 'The Venture Co.' mostly made of?";
 WOW_TRIVIA_ANSWERS1[i] = "Goblin";
 WOW_TRIVIA_ANSWERS2[i] = "Goblins"; 
-
 WOW_TRIVIA_QUESTIONS[i] = "Who became the first satyr?";
 WOW_TRIVIA_ANSWERS1[i] = "Xavius";
 i = i+1
@@ -1629,10 +1606,6 @@ WOW_TRIVIA_QUESTIONS[i] = "What is the Boulderfist clan made of?";
 WOW_TRIVIA_ANSWERS1[i] = "Ogres";
 WOW_TRIVIA_ANSWERS2[i] = "Ogre";
 i = i+1
-
-
-
-
 WOW_TRIVIA_QUESTIONS[i] = "What is the name of the new World Tree?";
 WOW_TRIVIA_ANSWERS1[i] = "Teldrassil";
 i = i+1
@@ -1657,8 +1630,6 @@ WOW_TRIVIA_QUESTIONS[i] = "Where can you find Chrommagus?";
 WOW_TRIVIA_ANSWERS1[i] = "Blackwing Lair";
 WOW_TRIVIA_ANSWERS2[i] = "BWL";
 i = i+1
-
-
 WOW_TRIVIA_QUESTIONS[i] = "What is 'Darrowmere'? (ex. a city)";
 WOW_TRIVIA_ANSWERS1[i] = "Lake";
 WOW_TRIVIA_ANSWERS2[i] = "A lake";
@@ -1689,8 +1660,6 @@ i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "Who is Thrall's advisor?";
 WOW_TRIVIA_ANSWERS1[i] = "Eitrigg";
 i = i+1
-
-
 WOW_TRIVIA_QUESTIONS[i] = "What is Eonar? (ex. a naga)";
 WOW_TRIVIA_ANSWERS1[i] = "Titan";
 WOW_TRIVIA_ANSWERS2[i] = "Vanir Titan";
@@ -1699,7 +1668,6 @@ WOW_TRIVIA_ANSWERS4[i] = "A Vanir Titan";
 i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "Frostmourne is the Lich King's weapon. (True/False)?"
 WOW_TRIVIA_ANSWERS1[i] = "True"
-
 WOW_TRIVIA_QUESTIONS[i] = "The Firetree tribe, which is made of forest trolls, resides in?";
 WOW_TRIVIA_ANSWERS1[i] = "UBRS";
 WOW_TRIVIA_ANSWERS2[i] = "Upper Blackrock Spire";
@@ -1707,7 +1675,6 @@ i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "What rank was Garithos in the armies of Lordaeron before he was killed by Varimathras?";
 WOW_TRIVIA_ANSWERS1[i] = "Grand Marshall";
 WOW_TRIVIA_ANSWERS2[i] = "14"; -- Grand Marshal = 14
-
 WOW_TRIVIA_QUESTIONS[i] = "Genjuros was the _______ of the blackrock clan before he died.";
 WOW_TRIVIA_ANSWERS1[i] = "Blademaster";
 i = i+1
@@ -1718,8 +1685,6 @@ WOW_TRIVIA_QUESTIONS[i] = "Who is the leader of Gilneas?";
 WOW_TRIVIA_ANSWERS1[i] = "Greymane";
 WOW_TRIVIA_ANSWERS2[i] = "Genn Graymane";
 i = i+1
-
-
 WOW_TRIVIA_QUESTIONS[i] = "What is Hakkar's fullname?";
 WOW_TRIVIA_ANSWERS1[i] = "Hakkar the Soulflayer";
 i = i+1
@@ -1738,37 +1703,22 @@ i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "Who is Malfurion Stormrage's brother?";
 WOW_TRIVIA_ANSWERS1[i] = "Illidan";
 WOW_TRIVIA_ANSWERS2[i] = "Illidan Stormrage"
-
-
-
-
-
-
-
 WOW_TRIVIA_QUESTIONS[i] = "In the tauren mythology, Elune is known as Mu'sha and is the left eye of the ___________.";
 WOW_TRIVIA_ANSWERS1[i] = "Earthmother";
 WOW_TRIVIA_ANSWERS2[i] = "the Earthmother";
 i = i+1
-
-
 WOW_TRIVIA_QUESTIONS[i] = "Who is known as 'the Lightbringer'?";
 WOW_TRIVIA_ANSWERS1[i] = "Uther";
 i = i+1
-
-
 WOW_TRIVIA_QUESTIONS[i] = "Lord Anduin Lothar was the last descendant of the ______ royal bloodline, and was known as the 'Lion of Azeroth'.";
 WOW_TRIVIA_ANSWERS1[i] = "Arathi";
 i = i+1
-
-
 WOW_TRIVIA_QUESTIONS[i] = "__________ was the former leader of Outland.";
 WOW_TRIVIA_ANSWERS1[i] = "Magtheridon";
 i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "__________ was the father of Cenarius.";
 WOW_TRIVIA_ANSWERS1[i] = "Malorne";
 i = i+1
-
-
 WOW_TRIVIA_QUESTIONS[i] = "What was Cenarius father, Malorne, also known as?";
 WOW_TRIVIA_ANSWERS1[i] = "The white stag";
 i = i+1
@@ -1781,8 +1731,6 @@ i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "_________ is the leader of the Blue Dragonflight.";
 WOW_TRIVIA_ANSWERS1[i] = "Malygos";
 i = i+1
-
-
 WOW_TRIVIA_QUESTIONS[i] = "What was Mannoroth known as? (for ex. Archimonde the Defiler)";
 WOW_TRIVIA_ANSWERS1[i] = "Mannoroth the Destructor";
 WOW_TRIVIA_ANSWERS2[i] = "the Destructor";
@@ -1793,8 +1741,6 @@ i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "_______ the Tidehunter was a Elemental Lieutenant of the Old Gods.";
 WOW_TRIVIA_ANSWERS1[i] = "Neptulon";
 i = i+1
-
-
 WOW_TRIVIA_QUESTIONS[i] = "Ner'zhul was known as the elder _________ of the orcs, before he was transformed into the Lich King.";
 WOW_TRIVIA_ANSWERS1[i] = "shaman";
 i = i+1
@@ -1816,8 +1762,6 @@ WOW_TRIVIA_QUESTIONS[i] = "________ was the leader of the Darkspear tribe before
 WOW_TRIVIA_ANSWERS1[i] = "Sen'jin";
 WOW_TRIVIA_ANSWERS2[i] = "Senjin";
 i = i+1
-
-
 WOW_TRIVIA_QUESTIONS[i] = "What is the name of the Archbishop who created the Paladin order of the Silver Hand, together with Uther.";
 WOW_TRIVIA_ANSWERS1[i] = "Alonsus Faol";
 WOW_TRIVIA_ANSWERS2[i] = "Archbishop Alonsus Faol";
@@ -1859,17 +1803,9 @@ WOW_TRIVIA_QUESTIONS[i] = "Broodlord Lashlayer resides in ____________?";
 WOW_TRIVIA_ANSWERS1[i] = "Blackwing Lair";
 WOW_TRIVIA_ANSWERS1[i] = "BWL";
 i = i+1
-
-
-
-
-
-
 WOW_TRIVIA_QUESTIONS[i] = "Suramar was a keldorei city, which was destroyed by the _____________ during the War of the Ancients.";
 WOW_TRIVIA_ANSWERS1[i] = "Burning Legion";
 i = i+1
-
-
 WOW_TRIVIA_QUESTIONS[i] = "The Sha'tar resides in _______________.";
 WOW_TRIVIA_ANSWERS1[i] = "Shattrath City";
 WOW_TRIVIA_ANSWERS2[i] = "Shattrath";
@@ -1877,8 +1813,6 @@ i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "The __________ clan in blade's edge mountain was killed by the Shadowmoon clan, who were led by Ner'zhul.";
 WOW_TRIVIA_ANSWERS1[i] = "Thunderlord";
 i = i+1
-
-
 WOW_TRIVIA_QUESTIONS[i] = "What is the name of the populare addon which has a database of every thing you have picked, since you had the addon?";
 WOW_TRIVIA_ANSWERS1[i] = "Gatherer";
 i = i+1
@@ -1984,15 +1918,11 @@ i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "Guess the Zone: The zone lies south of Darkshore, and is the ancestral homeland of the night elves. They still remain in control of several holdings throughout the zone, such as Maestra's Post, and the Shrine of Aessina.";
 WOW_TRIVIA_ANSWERS1[i] = "Ashenvale";
 i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "Guess the Zone: The Furbolgs, and satyrs are some of the local inhabitants of this zone. It was a populare world pvp zone before the expansion came out. This zone also features an Emerald Dream portal.";
-WOW_TRIVIA_ANSWERS1[i] = "Ashenvale";
-i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "Guess the Zone: Nagas, ghosts, and satyrs are some of the local inhabitants in this zone. The zone was named after the former kaldorei Queen, which is now the leader of the naga's.";
 WOW_TRIVIA_ANSWERS1[i] = "Azshara";
 i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "Guess the Zone: One of the best zones for farming Dreamfoil and Mountain Silversage. This zone also features the Hydraxian Waterlords faction. The zone is also known to be one of best-looking zones in World of Warcraft.";
 WOW_TRIVIA_ANSWERS1[i] = "Azshara"
-
 WOW_TRIVIA_QUESTIONS[i] = "Guess the Zone: This zone is low on history due to being a out-of-the-way location, but the dranei capital city lies here. A quest chain named 'The Prophecy of Akida' in this zone is widely regarded to be one of the funniest quest chains in WoW.";
 WOW_TRIVIA_ANSWERS1[i] = "Azuremyst";
 WOW_TRIVIA_ANSWERS2[i] = "Azuremyst Isle";
@@ -2097,9 +2027,6 @@ WOW_TRIVIA_ANSWERS1[i] = "Un'Goro";
 WOW_TRIVIA_ANSWERS2[i] = "Un'Goro Crater";
 i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "Guess the Zone: Both the Steamwheedle Cartel and the night elfs has established a base in this region. The zone is rich on thorium veins for miners. The zone has quite a wildlife aswell, with its blue dragons, bears, and owls.";
-WOW_TRIVIA_ANSWERS1[i] = "Winterspring";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "Guess the Zone: The Eye of Shadow was grinded quite often in this zone, before the expansion came. As Alliance you can obtain the 'Reins of the Winterspring Frostsaber' in this zone.";
 WOW_TRIVIA_ANSWERS1[i] = "Winterspring";
 i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "What is the highest speed you can obtain with a flying mount?";
@@ -2347,8 +2274,6 @@ i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "In what content patch was Ahn'Qiraj released?";
 WOW_TRIVIA_ANSWERS1[i] = "1.9";
 i = i+1
-
-
 WOW_TRIVIA_QUESTIONS[i] = "In what content patch was Naxxramas released?";
 WOW_TRIVIA_ANSWERS1[i] = "1.11";
 i = i+1
@@ -2356,8 +2281,6 @@ WOW_TRIVIA_QUESTIONS[i] = "Who is Highlord Mograine's son?";
 WOW_TRIVIA_ANSWERS1[i] = "Renault";
 WOW_TRIVIA_ANSWERS2[i] = "Renault Mograine";
 i = i+1
-
-
 WOW_TRIVIA_QUESTIONS[i] = "What is the firstname of the Scarlet Crusade's Ambassador, which was sent to discuss the Scourge Invasion?";
 WOW_TRIVIA_ANSWERS1[i] = "Marjhan";
 i = i+1
@@ -2397,9 +2320,6 @@ WOW_TRIVIA_ANSWERS1[i] = "Curse";
 i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "What is the name of the guild which did the world first on Nefarian? (hint: Something that happens quite often in guilds is the guildname of this guild)";
 WOW_TRIVIA_ANSWERS1[i] = "Drama";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "Death & Taxes did the world first on _______ in Karazhan.";
-WOW_TRIVIA_ANSWERS1[i] = "Nightbane";
 i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "Ascent did the world first on __________.";
 WOW_TRIVIA_ANSWERS1[i] = "Ragnaros";
@@ -2688,8 +2608,6 @@ WOW_TRIVIA_ANSWERS1[i] = "Zul'Gurub";
 WOW_TRIVIA_ANSWERS2[i] = "ZG";
 WOW_TRIVIA_ANSWERS3[i] = "Zul Gurub";
 i = i+1
-
-
 WOW_TRIVIA_QUESTIONS[i] = "What is Cenarius?";
 WOW_TRIVIA_ANSWERS1[i] = "A demigod";
 WOW_TRIVIA_ANSWERS2[i] = "Demigod";
@@ -2698,19 +2616,9 @@ i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "Who sells Soap on a Rope, in Shattrath?";
 WOW_TRIVIA_ANSWERS1[i] = "Griftah";
 i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "What foe will you face the most in the expansion? (ex. Amani Empire)";
-WOW_TRIVIA_ANSWERS1[i] = "Scourge"
-WOW_TRIVIA_ANSWERS2[i] = "the Scourge";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "How many new zones is comming with the expansion?";
-WOW_TRIVIA_ANSWERS1[i] = "10";
-WOW_TRIVIA_ANSWERS2[i] = "Ten";
-i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "Guess the Zone: This zone will be revamped in patch 2.3, and will feature the new goblin town, Mudsprocket. 'The Missing Diplomat' quest-chain has been countinued aswell. A total of 60 new quests has been added to the zone.";
 WOW_TRIVIA_ANSWERS1[i] = "Dustwallow Marsh";
 i = i+1
-
-
 WOW_TRIVIA_QUESTIONS[i] = "Sholazar Basin will be one of the largest zones in Northrend.";
 WOW_TRIVIA_ANSWERS1[i] = "false";
 i = i+1
@@ -2749,9 +2657,6 @@ WOW_TRIVIA_QUESTIONS[i] = "How many furbolg tribes are known to exist?";
 WOW_TRIVIA_ANSWERS1[i] = "14";
 WOW_TRIVIA_ANSWERS2[i] = "fourteen";
 i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "What new proffesion will be introduced in the expansion?";
-WOW_TRIVIA_ANSWERS1[i] = "Inscription";
-i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "What heroic class will be the first released?";
 WOW_TRIVIA_ANSWERS1[i] = "Death knight";
 WOW_TRIVIA_ANSWERS2[i] = "The Death Kngiht";
@@ -2775,9 +2680,6 @@ i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "_________ was the former king of Azjol-Nerub. He now leads the undead nerubians.";
 WOW_TRIVIA_ANSWERS1[i] = "Anub'Arak";
 i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "The 'Knights of the Silver Hand' will make their return in the expansion. They are lead by the previously exiled Highlord ______ Fordring, which you can encounter ingame in the Eastern Plaguelands.";
-WOW_TRIVIA_ANSWERS1[i] = "Tirion";
-i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "In what zone lies Utgarde Keep?";
 WOW_TRIVIA_ANSWERS1[i] = "Howling Fjord";
 i = i+1
@@ -2792,17 +2694,9 @@ i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "Alliance can expect to finally see ______ Bronzebeard, the famous explorer. He will be critical in order to uncover the real truth of Azeroth.";
 WOW_TRIVIA_ANSWERS1[i] = "Brann";
 i = i+1
-
-
 WOW_TRIVIA_QUESTIONS[i] = "The second instance in Utgarde Keep is called 'Utgarde _______', and is planned to be a level 80 5-man instance.";
 WOW_TRIVIA_ANSWERS1[i] = "Pinnacle";
 i = i+1
-
-
-
-
-
-
 WOW_TRIVIA_QUESTIONS[i] = "The nexus is located in __________, the home of Malygos.";
 WOW_TRIVIA_ANSWERS1[i] = "Coldarra";
 i = i+1
@@ -2838,9 +2732,6 @@ WOW_TRIVIA_QUESTIONS[i] = "The seat of power of the Scourge, is the Frozen Thron
 WOW_TRIVIA_ANSWERS1[i] = "Icecrown glacier";
 WOW_TRIVIA_ANSWERS2[i] = "The Icecrown glacier";
 i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "____________ is the new leader of Dalaran in the expansion.";
-WOW_TRIVIA_ANSWERS1[i] = "Rhonin";
-i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "Dalaran has been 'transported' to Northend and is a ________ town, even to the Horde.";
 WOW_TRIVIA_ANSWERS1[i] = "neutral";
 i = i+1
@@ -2849,12 +2740,6 @@ WOW_TRIVIA_ANSWERS1[i] = "Dalaran";
 i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "_________ Runeweaver is the current leader of Dalaran.";
 WOW_TRIVIA_ANSWERS1[i] = "Ansirem";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "____________ will be retuned into a level 80 instance with appropiate loot, and be the entry-raid instance in the expansion. The attunement will be removed aswell.";
-WOW_TRIVIA_ANSWERS1[i] = "Naxxramas";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "Caverns of Time: Culling of _______  is the new instance in CoT that will be added in the expansion. It will be a level 80 5-man instance that will be centered around helping Prince Arthas purge the plague infected populace of this place.";
-WOW_TRIVIA_ANSWERS1[i] = "Stratholme";
 i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "What is the name of the capital city that the ice trolls, also known as the Zul'Drak empire, has in Northrend?";
 WOW_TRIVIA_ANSWERS1[i] = "Gundrak";
@@ -2870,33 +2755,6 @@ WOW_TRIVIA_ANSWERS1[i] = "Drakkari";
 i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "The ____________ Keep is easily defended. It is said that the small group of scourge that is garrisoned there can easily hold the keep against forces ten times its size, especially since they dont need nourishment, like food or water.";
 WOW_TRIVIA_ANSWERS1[i] = "Drak'Tharon";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "The Death Knight will just be the first of several upcomming ______ class. The current plan is to release one  _____ class per expansion pack.";
-WOW_TRIVIA_ANSWERS1[i] = "hero";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "The Death Knight will start at a high level, around level __-60 is the current plan.";
-WOW_TRIVIA_ANSWERS1[i] = "55";
-i = i+1
-
-
-WOW_TRIVIA_QUESTIONS[i] = "The Death Knight uses ______ as their source of 'mana'. The _______ on their runeblades have charges, so they dont have unlimited mana precisely. Once thouse charges are out, they need to regenerate in order to get their abilities and spells back.";
-WOW_TRIVIA_ANSWERS1[i] = "runes";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "Proffesions will have _____ skill points as limit in the expansion.";
-WOW_TRIVIA_ANSWERS1[i] = "450";
-WOW_TRIVIA_ANSWERS2[i] = "four hundred fifty";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "The riding skills will be _______ skill points as limit in the expansion.";
-WOW_TRIVIA_ANSWERS1[i] = "375"; -- Trick question
-
-WOW_TRIVIA_QUESTIONS[i] = "In the expansion you are able to customize your characters with new hair styles and _______. Characters wont be able to have a 'plastic surgery', though. (hint: This can be 'triggered' by writing an emote)";
-WOW_TRIVIA_ANSWERS1[i] = "dances";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "Blizzard hopes to bring the pvp to annother level with the new zone in the expansion, Lake __________. It will be the only-pvp zone in wow.";
-WOW_TRIVIA_ANSWERS1[i] = "Wintergrasp";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "The expansion will introduce _____ weapons into the game, and atleast one new battleground.";
-WOW_TRIVIA_ANSWERS1[i] = "siege";
 i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "The art of Outland is going to return to the 'classical' Warcraft, and that is, ______ fantasy. The Outland art was high fantasy.";
 WOW_TRIVIA_ANSWERS1[i] = "gothic";
@@ -2991,8 +2849,6 @@ WOW_TRIVIA_QUESTIONS[i] = "Guess the Zone: The Venture Co is deforesting the lan
 WOW_TRIVIA_ANSWERS1[i] = "The Grizzly Hills";
 WOW_TRIVIA_ANSWERS2[i] = "Grizzly Hills";
 i = i+1
-
-
 WOW_TRIVIA_QUESTIONS[i] = "Azjol-Nerub is also known as the ________ Kingdom.";
 WOW_TRIVIA_ANSWERS1[i] = "Spider";
 i = i+1
@@ -3047,8 +2903,6 @@ i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "Guess the Zone: This zone is basicly a large frozen lake. Sometimes, local taurens and taunka's cut holes in the lake to spear-fish. It is very dangerous to fall down in the lake, as you will be rendered unconscious by the cold within 3-10 minutes.";
 WOW_TRIVIA_ANSWERS1[i] = "Lake Wintergrasp";
 i = i+1
-
-
 WOW_TRIVIA_QUESTIONS[i] = "You cant use the flying mount before you are around level 75~ in __________.";
 WOW_TRIVIA_ANSWERS1[i] = "Northrend";
 i = i+1
@@ -3063,55 +2917,3 @@ WOW_TRIVIA_ANSWERS1[i] = "2.3";
 i = i+1
 WOW_TRIVIA_QUESTIONS[i] = "The blue dragonkin's in _________ can now drop an Azure Whelp, a blue dragon pet.";
 WOW_TRIVIA_ANSWERS1[i] = "Azshara";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "In the upcomming patch, quest givers availible with daily quests will now have a ______ exclamation point instead of a yellow one.";
-WOW_TRIVIA_ANSWERS1[i] = "blue";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "In the upcomming patch, the Sporregar faction will sell a ________ pet at exalted.";
-WOW_TRIVIA_ANSWERS1[i] = "sporebat";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "In the upcomming patch, how much vendor discount does exalted give, in percent?";
-WOW_TRIVIA_ANSWERS1[i] = "20%";
-WOW_TRIVIA_ANSWERS2[i] = "twenty percent";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "In the upcomming patch, the Alliance Brigadier Generals and the Horde Warbringers will give out ___________ daily quests.";
-WOW_TRIVIA_ANSWERS1[i] = "battleground";
-WOW_TRIVIA_ANSWERS2[i] = "bg";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "In the upcomming patch, __________________ will feature a major change. The Commanders and Lieutenants has left this battleground, in search for new battle opportunities. Also, the elite tag on most of the NPC's has been removed.";
-WOW_TRIVIA_ANSWERS1[i] = "The Alterac Valley";
-WOW_TRIVIA_ANSWERS2[i] = "Alterac Valley";
-WOW_TRIVIA_ANSWERS3[i] = "AV";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "In the upcomming patch, ____________ paladins will get seriusly revamped.";
-WOW_TRIVIA_ANSWERS1[i] = "Retribution";
-WOW_TRIVIA_ANSWERS2[i] = "ret";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "In the upcomming patch, the dressing room will feature a significant change. You can now see how you would look with items from __________.";
-WOW_TRIVIA_ANSWERS1[i] = "receipes";
-i = i+1
-
-
-WOW_TRIVIA_QUESTIONS[i] = "In the upcomming patch, you can catch a fishing ________ which teaches you how to 'track fishing nodes' via fishing.";
-WOW_TRIVIA_ANSWERS1[i] = "journal";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "In the upcomming patch, all old world dungeons have had their loot revisited. One change in that all boss loot will now be of _________ quaility.";
-WOW_TRIVIA_ANSWERS1[i] = "superior";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "In the upcomming patch, the elite mobs outside the instances in _________ has been changed to non-elite. The trolls outside ZF will become non-elites, for example.";
-WOW_TRIVIA_ANSWERS1[i] = "Azeroth";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "In the upcommming patch, the heroic keys has been changed from revered to __________ as requirement before you can buy.";
-WOW_TRIVIA_ANSWERS1[i] = "honored";
-i = i+1
-
-
-
-
-WOW_TRIVIA_QUESTIONS[i] = "In the upcomming patch, you can get ________________ for heroic and non-heroic dungeons in Outland.";
-WOW_TRIVIA_ANSWERS1[i] = "daily quests";
-i = i+1
-WOW_TRIVIA_QUESTIONS[i] = "In the upcomming patch, the ___________ has received some upgrades.";
-WOW_TRIVIA_ANSWERS1[i] = "Auction House";
-WOW_TRIVIA_ANSWERS2[i] = "AH";
-
